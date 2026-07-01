@@ -2,59 +2,61 @@
 
 # 👋 Hi, I'm Afrielo
 
-### 🚀 Full Stack Developer • AI Explorer • Robotics Enthusiast
+### 💻 Full Stack Developer • Web Enthusiast • Robotics Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+Useful+Technology.;Creating+AI+Applications.;Developing+Modern+Web+Experiences.;Exploring+Cybersecurity+and+Robotics." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Real+Projects.;Building+Modern+Web+Applications.;Exploring+Robotics+with+ESP32.;Always+Learning.+Always+Building." />
 
----
-
-### 💭 I don't just learn programming.
-
-I build things.
-
-From modern web applications and AI assistants to IoT and robotics, I enjoy transforming ideas into products that people can actually use.
-
-My goal is simple:
-
-> **Build technology that creates real impact.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2563EB,100:38BDF8&text=Welcome%20to%20My%20GitHub&fontAlignY=35&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 ---
 
-# 🚀 What I'm Building
+# 🚀 About Me
 
-🤖 **AI Assistant** powered by Next.js & Supabase
+I'm a vocational high school student majoring in **Software and Game Development (PPLG)** from Indonesia.
 
-🌐 **Modern Church Website** with clean UI and interactive features
+I enjoy creating technology that solves real problems. Rather than collecting tutorials, I prefer building real applications, experimenting with new ideas, and continuously improving every project I create.
 
-📱 **ESP32 Smart Mobile Robot** controlled via smartphone
-
-🎨 **Modern Frontend Interfaces** using React & Tailwind CSS
+Every repository here represents a step in my journey to become a better developer.
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Current Focus
 
-### 🌐 Frontend
+🌐 Building modern web applications
+
+📱 Developing ESP32 and IoT projects
+
+🎨 Designing clean and responsive user interfaces
+
+⚙️ Improving backend architecture and databases
+
+📖 Learning something new every single day
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-### ⚙ Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,mysql,supabase,nodejs" />
+<img src="https://skillicons.dev/icons?i=php,mysql,supabase" />
 </p>
 
-### 🤖 AI & Programming
+### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow" />
+<img src="https://skillicons.dev/icons?i=php,js,python,cpp" />
 </p>
 
-### 🛠 Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino" />
@@ -64,25 +66,25 @@ My goal is simple:
 
 # 📌 Featured Projects
 
-## 🤖 AI Chat Assistant
+### 🌍 Team Evangelization Website
 
-An intelligent chatbot designed with modern UI, contextual conversations, and scalable backend architecture.
-
----
-
-## 🌍 Team Evangelisasi Website
-
-A responsive website that helps people discover ministry activities, events, galleries, and information.
+A modern website built to support ministry activities with a clean interface and responsive design.
 
 ---
 
-## 🤖 ESP32 Smart Robot
+### 🤖 ESP32 Smart Robot
 
-A mobile robot capable of smartphone control with future integration of AI, sensors, and autonomous navigation.
+A mobile robot controlled from a smartphone, developed as a learning project in embedded systems and IoT.
 
 ---
 
-# 📈 GitHub Statistics
+### 💻 Web Development Projects
+
+A collection of web applications built using modern technologies, focusing on performance, clean design, and user experience.
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -98,39 +100,36 @@ A mobile robot capable of smartphone control with future integration of AI, sens
 
 </p>
 
----
+<p align="center">
 
-# 🌟 My Journey
+<img src="https://github-profile-trophy.vercel.app/?username=afrilelo111-stack&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
-```text
-2025 ██████████ Learn Web Development
-
-2026 ██████████████████████ Build AI & Real Projects
-
-2027 ███████████████████████████ Open Source & Advanced AI
-
-∞     Keep Learning • Keep Building • Keep Growing
-```
+</p>
 
 ---
 
-# 🎯 Current Goals
+# 🎯 2026 Goals
 
-* 🚀 Become a Professional Full Stack Developer
-* 🤖 Master Artificial Intelligence
-* 🛡 Learn Cybersecurity
-* 📱 Build Intelligent Robotics
-* 🌍 Contribute to Open Source
-* 💡 Launch impactful technology products
+* 🚀 Build larger and more impactful projects
+* 🌐 Master modern full stack web development
+* 🤖 Explore robotics and IoT with ESP32
+* 📚 Contribute to open-source projects
+* 💡 Transform ideas into useful products
+
+---
+
+# 💬 A Quote I Believe In
+
+> **"Every great developer started by building something small."**
 
 ---
 
 <div align="center">
 
-## ⚡ "Ideas are cheap. Building them is what makes the difference."
+### Thanks for stopping by! 👋
 
-### ⭐ Thanks for visiting my GitHub!
+If you like my projects, don't forget to ⭐ my repositories.
 
-<img src="https://komarev.com/ghpvc/?username=afrilelo111-stack&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=afrilelo111-stack&style=for-the-badge&color=2563EB"/>
 
 </div>
