@@ -1,109 +1,136 @@
-# Hi there 👋, I'm Afrielo
+<div align="center">
 
-### 💻 Full Stack Developer | AI Enthusiast | Robotics Learner
+# 👋 Hi, I'm Afrielo
 
-I'm a vocational high school student majoring in **Software and Game Development (PPLG)** from Indonesia who loves building useful technology.
+### 🚀 Full Stack Developer • AI Explorer • Robotics Enthusiast
 
-I enjoy turning ideas into real projects—from web applications and AI assistants to IoT and robotics. Every project is an opportunity to learn something new and improve my skills.
-
----
-
-## 🚀 Currently Working On
-
-* 🤖 AI Assistant with **Next.js + Supabase**
-* 🌐 Website for **Team Evangelisasi**
-* 📱 Mobile Robot using **ESP32**
-* 🎨 Modern UI/UX with **React & Tailwind CSS**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+Useful+Technology.;Creating+AI+Applications.;Developing+Modern+Web+Experiences.;Exploring+Cybersecurity+and+Robotics." />
 
 ---
 
-## 🌱 Currently Learning
+### 💭 I don't just learn programming.
 
-* JavaScript & TypeScript
-* React & Next.js
-* PHP & MySQL
-* Python
-* Artificial Intelligence
-* Cybersecurity
-* IoT & Embedded Systems
+I build things.
 
----
+From modern web applications and AI assistants to IoT and robotics, I enjoy transforming ideas into products that people can actually use.
 
-## 🛠 Tech Stack
+My goal is simple:
 
-### Frontend
+> **Build technology that creates real impact.**
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Next.js
-* Tailwind CSS
-
-### Backend
-
-* PHP
-* MySQL
-* Supabase
-
-### Programming
-
-* JavaScript
-* PHP
-* Python
-* C++ (ESP32)
-
-### Tools
-
-* Git & GitHub
-* VS Code
-* Figma
-* Arduino IDE
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 What I'm Building
 
-🔹 AI Chat Assistant
+🤖 **AI Assistant** powered by Next.js & Supabase
 
-An intelligent chatbot built using Next.js and Supabase.
+🌐 **Modern Church Website** with clean UI and interactive features
 
-🔹 Team Evangelisasi Website
+📱 **ESP32 Smart Mobile Robot** controlled via smartphone
 
-A modern website designed to support ministry activities and information sharing.
-
-🔹 Smart Mobile Robot
-
-ESP32-based robot controlled from a smartphone with future AI integration.
+🎨 **Modern Frontend Interfaces** using React & Tailwind CSS
 
 ---
 
-## 🎯 Goals
+# 💻 Tech Stack
 
-* Become a professional Full Stack Developer.
-* Build AI-powered applications that solve real problems.
-* Contribute to open-source projects.
-* Explore Robotics, IoT, and Cybersecurity.
-* Keep learning and building every day.
+### 🌐 Frontend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
-## 📊 GitHub Stats
+### ⚙ Backend
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afrilelo111-stack&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afrilelo111-stack&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrilelo111-stack&layout=compact&theme=tokyonight" />
+<p>
+<img src="https://skillicons.dev/icons?i=php,mysql,supabase,nodejs" />
+</p>
+
+### 🤖 AI & Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow" />
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino" />
 </p>
 
 ---
 
-## 💡 Philosophy
+# 📌 Featured Projects
 
-> "Learning never stops. Every line of code is a step toward becoming the developer I aspire to be."
+## 🤖 AI Chat Assistant
+
+An intelligent chatbot designed with modern UI, contextual conversations, and scalable backend architecture.
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🌍 Team Evangelisasi Website
+
+A responsive website that helps people discover ministry activities, events, galleries, and information.
+
+---
+
+## 🤖 ESP32 Smart Robot
+
+A mobile robot capable of smartphone control with future integration of AI, sensors, and autonomous navigation.
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=afrilelo111-stack&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrilelo111-stack&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=afrilelo111-stack&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌟 My Journey
+
+```text
+2025 ██████████ Learn Web Development
+
+2026 ██████████████████████ Build AI & Real Projects
+
+2027 ███████████████████████████ Open Source & Advanced AI
+
+∞     Keep Learning • Keep Building • Keep Growing
+```
+
+---
+
+# 🎯 Current Goals
+
+* 🚀 Become a Professional Full Stack Developer
+* 🤖 Master Artificial Intelligence
+* 🛡 Learn Cybersecurity
+* 📱 Build Intelligent Robotics
+* 🌍 Contribute to Open Source
+* 💡 Launch impactful technology products
+
+---
+
+<div align="center">
+
+## ⚡ "Ideas are cheap. Building them is what makes the difference."
+
+### ⭐ Thanks for visiting my GitHub!
+
+<img src="https://komarev.com/ghpvc/?username=afrilelo111-stack&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
