@@ -1,17 +1,17 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:38BDF8&height=250&section=header&text=AFRIELO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
 # 👋 Hi, I'm Afrielo
 
-### 💻 Full Stack Developer • Web Enthusiast • Robotics Explorer
+### 💻 Full Stack Developer | Web Enthusiast | Robotics Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Turning+Ideas+Into+Real+Projects.;Building+Modern+Web+Applications.;Exploring+Robotics+with+ESP32.;Learning+Something+New+Every+Day." />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:38BDF8&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;Exploring+Laravel+%26+Next.js;Learning+by+Building+Real+Projects;ESP32+%7C+IoT+%7C+Web+Development" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=afrilelo111-stack&label=Profile%20Views&style=for-the-badge&color=2563EB" />
-  <img src="https://img.shields.io/github/followers/afrilelo111-stack?style=for-the-badge&color=2563EB" />
-  <img src="https://img.shields.io/github/stars/afrilelo111-stack?style=for-the-badge&color=2563EB" />
+<img src="https://komarev.com/ghpvc/?username=afrilelo111-stack&style=for-the-badge&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/afrilelo111-stack?style=for-the-badge&color=2563EB"/>
+<img src="https://img.shields.io/github/stars/afrilelo111-stack?style=for-the-badge&color=2563EB"/>
 </p>
 
 </div>
@@ -20,49 +20,49 @@
 
 # 🚀 About Me
 
-Hi! I'm **Afrielo**, a vocational high school student majoring in **Software and Game Development (PPLG)** from Indonesia 🇮🇩.
+I'm **Afrielo**, a vocational high school student majoring in **Software and Game Development (PPLG)** from Indonesia 🇮🇩.
 
-I enjoy building real-world projects that help me grow as a developer. My interests include modern web development, backend systems, UI design, and embedded systems with ESP32.
+I enjoy building useful software and continuously improving my skills through real-world projects.
 
-I believe the best way to learn is by building, experimenting, and continuously improving.
+Currently, I'm focusing on modern web development, backend architecture, Laravel, Next.js, and robotics using ESP32.
 
 ---
 
 # 🎯 Current Focus
 
-* 🌐 Building modern web applications
-* ⚙️ Learning scalable backend development
-* 🚀 Developing projects with Laravel & Next.js
-* 📱 Exploring IoT and Robotics using ESP32
-* 🎨 Creating clean and responsive user interfaces
-* 📚 Improving problem-solving and programming skills
+- 🌐 Modern Web Development
+- ⚙️ Laravel Development
+- ⚛️ React & Next.js
+- 📱 ESP32 & IoT
+- 🗄 Database Design
+- 🎨 Responsive UI Design
 
 ---
 
 # 🛠 Tech Stack
 
-### 🌐 Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,supabase" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,supabase"/>
 </p>
 
-### 💻 Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,python,cpp" />
+<img src="https://skillicons.dev/icons?i=php,js,python,cpp"/>
 </p>
 
-### 🧰 Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,postman"/>
 </p>
 
 ---
@@ -71,40 +71,46 @@ I believe the best way to learn is by building, experimenting, and continuously 
 
 ## 🌍 Team Evangelization Website
 
-A responsive website built to support ministry activities, announcements, galleries, and community engagement.
+A responsive website designed to support ministry activities with a modern interface.
 
 ---
 
 ## 🤖 ESP32 Smart Robot
 
-A mobile robot controlled using a smartphone while exploring IoT, sensors, and embedded programming.
+Smart robot controlled using ESP32 with future IoT integration.
 
 ---
 
-## 💻 Web Development Projects
+## 💻 Web Development
 
-A collection of projects focused on responsive design, clean architecture, and modern web technologies.
+Collection of websites built with modern technologies and clean architecture.
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=afrilelo111-stack&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrilelo111-stack&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=afrilelo111-stack&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrilelo111-stack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=afrilelo111-stack&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afrilelo111-stack&theme=tokyonight"/>
-</p>
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afrilelo111-stack&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afrilelo111-stack&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=afrilelo111-stack&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -112,56 +118,64 @@ A collection of projects focused on responsive design, clean architecture, and m
 # 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=afrilelo111-stack&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=afrilelo111-stack&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
+
 </p>
-
----
-
-# 📈 Development Journey
-
-```text
-2025  ████████░░░░ Learn Web Development
-
-2026  ██████████████ Build Real Projects
-
-2027  ███████████████████ Master Full Stack Development
-
-2028+ █████████████████████ Build Products That Matter
-```
 
 ---
 
 # 🌱 Currently Learning
 
-* Laravel
-* Next.js
-* React
-* Python
-* Cybersecurity
-* Robotics
-* IoT Development
+- Laravel
+- Next.js
+- React
+- Python
+- Cybersecurity
+- Robotics
+- IoT
 
 ---
 
 # 🎯 Goals
 
-✅ Become a Professional Full Stack Developer
+- 🚀 Become a Professional Full Stack Developer
+- 🌐 Build impactful web applications
+- 📱 Create innovative IoT projects
+- 🌍 Contribute to Open Source
+- 📚 Learn something new every day
 
-✅ Build useful web applications
+---
 
-✅ Master Laravel & Next.js
+# 📅 2026 Roadmap
 
-✅ Explore Robotics & Embedded Systems
+```text
+█████████████████████████████
 
-✅ Contribute to Open Source
+✅ HTML & CSS
 
-✅ Never Stop Learning
+✅ JavaScript
+
+✅ PHP
+
+🟦 Laravel
+
+🟦 Next.js
+
+🟨 Python
+
+🟨 Cybersecurity
+
+🟨 Robotics
+
+█████████████████████████████
+```
 
 ---
 
 # 💬 Favorite Quote
 
-> **"The best way to predict the future is to build it."**
+> **"Learning by building. Growing by creating."**
 
 ---
 
@@ -169,10 +183,10 @@ A collection of projects focused on responsive design, clean architecture, and m
 
 ## 🤝 Let's Connect
 
-If you like my projects, feel free to ⭐ my repositories.
+⭐ Thanks for visiting my profile.
 
-Thanks for visiting my profile!
+If you like my projects, consider giving them a ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:2563EB&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:2563EB&height=150&section=footer"/>
 
 </div>
